@@ -1,4 +1,4 @@
-package solid.dip;
+package solid.dip_solution;
 
 public class CreditCard implements BankCard{
 
